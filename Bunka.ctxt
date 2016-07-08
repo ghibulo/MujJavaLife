@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=xp\ yp\ zivot
+comment0.target=Bunka(int,\ int,\ boolean)
+comment1.params=s\ v\ j\ z\ sv\ jv\ jz\ sz
+comment1.target=void\ nastavSousedySVJZ(Bunka,\ Bunka,\ Bunka,\ Bunka,\ Bunka,\ Bunka,\ Bunka,\ Bunka)
+comment2.params=
+comment2.target=void\ prehodnotExistenci()
+comment3.params=
+comment3.target=boolean\ novaGenerace()
+comment4.params=
+comment4.target=int\ zijes()
+comment5.params=zivot
+comment5.target=void\ nastavZivot(boolean)
+numComments=6
